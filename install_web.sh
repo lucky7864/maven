@@ -1,2 +1,3 @@
+#!/bin/sh
 yum update -y && yum upgrade -y
 yum install -y nginx
